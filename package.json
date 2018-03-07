@@ -21,14 +21,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/afrodesia/ES-6-Starter"
+    "url": "git+https://github.com/afrodesia/ES-6-Starter.git"
   },
   "scripts": {
     "start": "node_modules/webpack-dev-server/bin/webpack-dev-server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/afrodesia/ES-6-Starter.git"
   },
   "keywords": [
     "npm",
